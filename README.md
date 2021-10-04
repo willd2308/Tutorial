@@ -1,2 +1,2 @@
 # Tutorial
-print("hellow wordjoifs")
+console.log("Cheese")
